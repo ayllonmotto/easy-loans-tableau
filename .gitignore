@@ -1,0 +1,16 @@
+# Datos y libros de Tableau no redistribuibles
+*.xlsx
+*.xls
+*.csv
+*.hyper
+*.twbx
+*.twb
+
+# Materiales académicos y documentos
+*.pdf
+
+# Archivos temporales o del sistema
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
